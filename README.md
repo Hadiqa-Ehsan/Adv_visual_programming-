@@ -28,7 +28,7 @@ A Windows Forms application that integrates with **Google Gemini API** to provid
 | C# | 9.0 |
 | .NET Framework | 4.8 |
 | Windows Forms | - |
-| Google Gemini API | gemini-2.0-flash-exp |
+| Google Gemini API | gemini-2.5-flash-exp |
 | Newtonsoft.Json | 13.0.3 |
 
 #### Setup
